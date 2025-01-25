@@ -1,23 +1,21 @@
-# [Project Name] 🎯
+# Netflix Clone 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Oreo
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Nikitha s nair - LBS Institue of Technology for Women
 
 ### Hosted Project Link
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+Created a clone of netflix. 
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+
 
 ### The Solution
 [How are you solving it? Keep it fun!]
