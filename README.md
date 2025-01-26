@@ -9,29 +9,25 @@
 - Member 1: Nikitha s nair - LBS Institue of Technology for Women
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+http://localhost:5173/
 
 ### Project Description
 Created a clone of netflix. 
 
 ### The Problem statement
-
+Cinephile's struggle to pay for Netflix!!!
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+GIving out free netflix for cool cinephile people
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- React
+- Java script
+- css
+- firebase
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
 ### Implementation
 For Software:
