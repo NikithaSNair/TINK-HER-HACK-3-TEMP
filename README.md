@@ -30,22 +30,20 @@ For Software:
 
 
 ### Implementation
+
 For Software:
 # Installation
-
-1. For creating a  using Vite
-npm create vite@latest netflix-clone --template react
-cd netflix-clone
-npm install
-
-2.
-
+1. Create a React app
+   npm create vite@latest
+2.React router DOM
+   npm install react-router-dom
+3. npm install
 
 # Run
-[commands]
+npm dev run
 
 ### Project Documentation
-For Software:
+For Software: 
 
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
@@ -61,14 +59,6 @@ For Software:
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
 
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
 
 # Build Photos
 ![Team](Add photo of your team here)
@@ -92,9 +82,7 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+Nikitha S Nair - Took up the whole responsibility ;)
 
 ---
 Made with ❤️ at TinkerHub
