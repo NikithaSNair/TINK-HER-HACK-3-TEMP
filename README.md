@@ -32,7 +32,14 @@ For Software:
 ### Implementation
 For Software:
 # Installation
-[commands]
+
+1. For creating a  using Vite
+npm create vite@latest netflix-clone --template react
+cd netflix-clone
+npm install
+
+2.
+
 
 # Run
 [commands]
