@@ -37,7 +37,11 @@ For Software:
 
 
 # Run
-[commands]
+npx ceate-react-app netflix-clone
+cd netflix-clone
+npm start
+npm run build
+npm dev run
 
 ### Project Documentation
 
