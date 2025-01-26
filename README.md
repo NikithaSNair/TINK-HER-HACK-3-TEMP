@@ -40,42 +40,33 @@ For Software:
 [commands]
 
 ### Project Documentation
-For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+For Sof![Screenshot 2025-01-26 090341](https://github.com/user-attachments/assets/9b5a65ea-ecb4-4e9d-8088-4b9b59bfa985)
+ The Sign-in page. If given wrong password, it'll display invalid credential.
+ 
+![Screenshot 2025-01-26 090459](https://github.com/user-attachments/assets/9783faf7-d6aa-4fa1-9407-761d84dc664d)
+Sign Up page. If an email that already exists is given, it shows "email already in use".
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot 2025-01-26 090534](https://github.com/user-attachments/assets/a1cfaa5e-965e-4900-8ea1-1992187b3451)
+The Website's front-page.
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+![Screenshot 2025-01-26 090554](https://github.com/user-attachments/assets/3470e8f8-8cb9-477e-97bb-b2f3e3f5f712)
+Website displaying different genres of movies.
+
+webpage showingsocial media account details and copyright infringement.
+![Screenshot 2025-01-26 090607](https://github.com/user-attachments/assets/1d434fc0-45d7-44bc-9213-864f3f657cf3)
 
 # Build Photos
-![Team](Add photo of your team here)
 
 
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+ # Video
 
-# Additional Demos
-[Add any extra demo materials/links]
+
+
 
 ## Team Contributions
 Nikitha S Nair did all the parts ;)
